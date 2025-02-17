@@ -1,0 +1,15 @@
+# MicroPython LED Blinking Project Requirements
+# 
+# This project uses only built-in MicroPython modules:
+# - machine: For GPIO control
+# - time: For timing functions
+#
+# No external dependencies required for basic functionality.
+#
+# Optional: If you want to add advanced features, you might consider:
+# - micropython-uasyncio: For asynchronous programming
+# - micropython-ulogging: For advanced logging
+#
+# Installation (if using optional packages):
+# pip install micropython-uasyncio
+# pip install micropython-ulogging
